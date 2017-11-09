@@ -3,6 +3,6 @@
 1. Сколонируй проект <a href="">git clone https://github.com/ONESucH/help-me-Angular.git</a><br>
 2. Войди в папку <a href="">cd help-me-Angular/</a><br>
 3. Для запуска сервера инициализируем все пакеты npm <a href="">npm install</a><br>(загрузка пакетов может достигнуть до 1 минуты)
-4. Запустим сервер ng serve -o
+4. Запустим сервер <a href="">ng serve -o/</a>
 
 Помощь можно в Commite оставлять, спасибо всем.
